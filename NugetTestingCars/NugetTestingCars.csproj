@@ -8,7 +8,7 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <PackageReference Include="NugetCarsAGM" Version="1.0.0" />
+    <PackageReference Include="NugetCarsAGM" Version="2.0.0" />
   </ItemGroup>
 
 </Project>
